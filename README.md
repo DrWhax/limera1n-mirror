@@ -7,5 +7,5 @@ All credits to geohot
 
 #### Links:
 
-https://web.archive.org/web/20130215210534if_/http://limera1n.com/limera1n.exe
-https://web.archive.org/web/20130215210529if_/http://limera1n.com/limera1n.zip
+- https://web.archive.org/web/20130215210534if_/http://limera1n.com/limera1n.exe
+- https://web.archive.org/web/20130215210529if_/http://limera1n.com/limera1n.zip
